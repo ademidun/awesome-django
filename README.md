@@ -570,7 +570,7 @@ phone numbers.
 * [Saleor](http://getsaleor.com) - An e-commerce storefront for Python and Django.
 * [Satchless](http://satchless.com) - Satchless brings e-commerce and Python together.
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
-* [Django-Shop](http://django-shop.readthedocs.org/en/latest/index.html) - A Django based shop system.
+* [Django-Shop](http://django-shop.readthedocs.io/en/latest/index.html) - A Django based shop system.
 
 ## Other
 
